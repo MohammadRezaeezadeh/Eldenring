@@ -1,0 +1,26 @@
+# پوشه‌های سیستمی
+.DS_Store
+Thumbs.db
+
+# پوشه‌های مخصوص یونیتی
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# فایل‌های بیلد (ساخته‌شده)
+Build/
+Builds/
+*.apk
+*.exe
+*.app
+
+# فایل‌های شخصی و تنظیمات مخصوص کاربر
+*.swp
+*.suo
+*.user
+*.csproj
+*.pidb
+*.sln
+*.unityproj
