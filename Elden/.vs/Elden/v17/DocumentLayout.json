@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\EldenRing\\Elden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|c:\\unityprojects\\eldenring\\elden\\assets\\script\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|c:\\unityprojects\\eldenring\\elden\\assets\\script\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|c:\\unityprojects\\eldenring\\elden\\assets\\script\\player\\playerlogomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07145172-936C-7E2F-39F8-C545BACA5830}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerlogomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "characterManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\characterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Player\\characterManager.cs",
+              "ToolTip": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\characterManager.cs",
+              "RelativeToolTip": "Assets\\script\\Player\\characterManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:20:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerLogoMotionManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\PlayerLogoMotionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Player\\PlayerLogoMotionManager.cs",
+              "ToolTip": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\PlayerLogoMotionManager.cs",
+              "RelativeToolTip": "Assets\\script\\Player\\PlayerLogoMotionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:18:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Player\\PlayerManager.cs",
+              "ToolTip": "C:\\UnityProjects\\EldenRing\\Elden\\Assets\\script\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\script\\Player\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:18:19.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
